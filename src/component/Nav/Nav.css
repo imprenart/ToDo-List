@@ -1,0 +1,16 @@
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.div-img {
+  margin-left: 2em;
+}
+
+.div-reloj{
+  margin-right: 2em;
+}
+

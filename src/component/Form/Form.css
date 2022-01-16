@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgray;
+  padding: 5px;
+}
+
+.input-form {
+  margin: 5px;
+  border-radius: 5px;
+  width: 25em;
+  height: 2em;
+}
+
+.btn-form {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  height: 2em;
+}

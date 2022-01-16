@@ -1,0 +1,13 @@
+.todos {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+
+.btn-remove {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}

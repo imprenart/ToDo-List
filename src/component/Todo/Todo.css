@@ -1,0 +1,38 @@
+.complete {
+  color: lightgrey;
+  text-decoration: line-through;
+}
+
+.todo {
+  display: flex;
+  align-items: center;
+  margin: 0.5em;
+}
+
+.check {
+  margin: 0 0.5em;
+}
+
+span{
+  margin: 0 1em;
+  width: 300px;
+  
+  background-color: white;
+  padding: 4px;
+  border: rgb(199, 194, 194) solid 1px;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  border-radius: 20%;
+  transform: scale(1.1);
+}
+
+
+
+input[type="checkbox"] {
+  transform: scale(2);
+  padding: 10px;
+}
